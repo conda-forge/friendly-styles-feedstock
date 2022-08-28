@@ -1,5 +1,5 @@
 {% set name = "friendly-styles" %}
-{% set version = "0.1" %}
+{% set version = "0.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/friendly_styles-{{ version }}.tar.gz
-  sha256: 4babd7780f69863766773f1f7f9f0c4e2f5ba0ce124407255ba15d0dd6858c6b
+  sha256: 96d935971fd7b6d782d6fb1346d57be2b075bce086997956bdff85cb4d0ad6cd
 
 build:
   number: 0
